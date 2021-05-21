@@ -19,7 +19,7 @@ all_paths = []
 
 
 def print_graph(current_vertex, path):
-    print(current_vertex)
+    print(current_vertex)                               #
     # Recurse on the children
     new_path = path + [current_vertex]
     # I have reached the end of my path because the neighbor is empty

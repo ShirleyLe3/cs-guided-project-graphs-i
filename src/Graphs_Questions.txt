@@ -1,0 +1,3 @@
+describe what a graph is, explain its components, provide examples of its useful applications, and draw each of the different graph types 
+represent a graph as an adjacency list and an adjacency matrix and compare and contrast the respective representations
+implement user-defined Vertex and Graph classes that allow basic operations
